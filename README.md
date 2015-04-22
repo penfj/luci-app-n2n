@@ -1,5 +1,5 @@
 # luci-app-n2n
-luci-app-n2n
+
 ===================
 
 LuCI configuration pages for <a href="https://www.ntop.org/n2n/" target="_blank">n2n</a> (N2N)
